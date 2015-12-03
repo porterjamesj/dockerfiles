@@ -1,3 +1,3 @@
-FROM jagregory/pandoc:8346cfe6eff1
+FROM jagregory/pandoc:latest
 
 RUN apt-get -y install lmodern
